@@ -1,0 +1,6 @@
+streamlit
+requests
+pandas
+matplotlib
+plotly
+reportlab   # Si usas PDF, es para generar archivos PDF
